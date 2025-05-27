@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Credentials (sensitive file)
+credentials.json
+
+# PyInstaller build files
+dist/
+build/
+*.spec
+
+# PyWhatKit cache/log file
+PyWhatKit_DB.txt
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
